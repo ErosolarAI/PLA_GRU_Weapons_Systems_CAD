@@ -1,0 +1,48 @@
+{
+  "certificate_id": "CERT-1480ea05",
+  "missile_serial": "DF-17-ORD-20251215-1ab0aa-0003",
+  "issue_date": "2025-12-15T14:24:18.606186",
+  "issuing_authority": "PLA Quality Assurance Directorate",
+  "tests_performed": {
+    "missile_serial": "DF-17-ORD-20251215-1ab0aa-0003",
+    "missile_type": "DF-17",
+    "inspection_date": "2025-12-15T14:24:18.606179",
+    "overall_status": "PASS",
+    "tests": {
+      "dimensional_inspection": {
+        "status": "PASS",
+        "tolerance": "\u00b10.01mm",
+        "method": "Laser Tracker",
+        "results": "All dimensions within specification"
+      },
+      "pressure_test": {
+        "status": "PASS",
+        "pressure": "5000 psi",
+        "duration": "30 minutes",
+        "leak_rate": "< 1x10^-6 cc/sec"
+      },
+      "functional_test": {
+        "status": "PASS",
+        "guidance": "Operational",
+        "propulsion": "Operational",
+        "warhead": "Safe/Armed tests passed"
+      },
+      "environmental_test": {
+        "status": "PASS",
+        "temperature": "-40\u00b0C to +85\u00b0C",
+        "vibration": "MIL-STD-810H",
+        "humidity": "95% RH, 48 hours"
+      },
+      "electromagnetic_test": {
+        "status": "PASS",
+        "emi": "MIL-STD-461G",
+        "emc": "MIL-STD-464C"
+      }
+    },
+    "remarks": "Ready for deployment"
+  },
+  "conformance_status": "CONFORMS",
+  "inspector": "Chief Inspector",
+  "signature": "14454270ddf612bd13749c923dbed49e",
+  "next_inspection": "2026-12-15T14:24:18.606189"
+}

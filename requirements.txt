@@ -1,0 +1,43 @@
+# Core CAD and 3D processing
+cadquery==2.3.1
+ocp==7.8.0
+numpy==1.24.3
+scipy==1.10.1
+pandas==2.0.3
+matplotlib==3.7.2
+plotly==5.17.0
+
+# Optimization and AI
+deap==1.4.1
+pyswarms==1.3.0
+scikit-learn==1.3.0
+torch==2.1.0
+tensorflow==2.14.0
+optuna==3.4.0
+pymoo==0.6.0
+
+# Engineering simulations
+pysif==0.1.0  # Structural analysis
+pysu2==7.5.1  # CFD simulations
+openmdao==3.27.0
+
+# Satellite and communication
+skyfield==1.46
+satellite==0.1.5
+pyserial==3.5
+
+# Drone and sensor integration
+dronekit==2.9.2
+pymavlink==2.4.37
+opencv-python==4.8.1.78
+
+# Visualization and reporting
+vtk==9.2.6
+pyvista==0.39.1
+reportlab==4.0.4
+
+# Utilities
+pyyaml==6.0.1
+tqdm==4.66.1
+loguru==0.7.2
+click==8.1.7

@@ -1,0 +1,34 @@
+{
+  "equipment": [
+    {
+      "tool": "CMM",
+      "calibration_interval": "90 days",
+      "standard": "ISO 10360"
+    },
+    {
+      "tool": "Torque Wrenches",
+      "calibration_interval": "30 days",
+      "standard": "ISO 6789"
+    },
+    {
+      "tool": "Pressure Gauges",
+      "calibration_interval": "60 days",
+      "standard": "ISO 5171"
+    },
+    {
+      "tool": "Thermocouples",
+      "calibration_interval": "180 days",
+      "standard": "IEC 60584"
+    },
+    {
+      "tool": "Force Gauges",
+      "calibration_interval": "90 days",
+      "standard": "ISO 376"
+    }
+  ],
+  "traceability": {
+    "requirement": "NIST traceable standards",
+    "documentation": "Calibration certificates on file",
+    "recall_procedure": "Recall and retest if out of calibration"
+  }
+}

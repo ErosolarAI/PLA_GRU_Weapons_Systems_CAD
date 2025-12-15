@@ -1,0 +1,79 @@
+{
+  "order_id": "ORD-20251215-aff608",
+  "missile_type": "DF-17",
+  "quantity": 3,
+  "priority": "STANDARD",
+  "status": "COMPLETED",
+  "created_date": "2025-12-15T14:24:55.326170",
+  "completion_date": "2025-12-15T14:24:56.880112",
+  "components": [
+    {
+      "name": "Warhead Section",
+      "part_number": "DF17-WHD-001",
+      "quantity": 1
+    },
+    {
+      "name": "Guidance Section",
+      "part_number": "DF17-GDN-001",
+      "quantity": 1
+    },
+    {
+      "name": "Propulsion Section",
+      "part_number": "DF17-PRP-001",
+      "quantity": 1
+    },
+    {
+      "name": "Nose Cone",
+      "part_number": "DF17-NOS-001",
+      "quantity": 1
+    },
+    {
+      "name": "Fin Assembly",
+      "part_number": "DF17-FIN-001",
+      "quantity": 4
+    }
+  ],
+  "materials": [
+    {
+      "material": "Tungsten_Alloy",
+      "quantity": 500,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Aluminum_7075",
+      "quantity": 150,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Steel_4340",
+      "quantity": 2000,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Carbon_Fiber",
+      "quantity": 105,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Explosives",
+      "quantity": 300,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Electronics",
+      "quantity": 50,
+      "unit": "units",
+      "status": "PENDING"
+    }
+  ],
+  "estimated_completion": {
+    "estimated_days": 90,
+    "start_date": "2025-12-15T14:24:55.326170",
+    "completion_date": "2026-03-15T14:24:55.326170"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "order_id": "ORD-20251215-ad141a",
+  "missile_type": "DF-26",
+  "quantity": 1,
+  "priority": "CRITICAL",
+  "status": "COMPLETED",
+  "created_date": "2025-12-15T14:32:36.757931",
+  "completion_date": "2025-12-15T14:32:39.878941",
+  "components": [
+    {
+      "name": "Warhead Section",
+      "part_number": "DF26-WHD-001",
+      "quantity": 1
+    },
+    {
+      "name": "Guidance Section",
+      "part_number": "DF26-GDN-001",
+      "quantity": 1
+    },
+    {
+      "name": "Propulsion Stage 1",
+      "part_number": "DF26-PRP-001",
+      "quantity": 1
+    },
+    {
+      "name": "Propulsion Stage 2",
+      "part_number": "DF26-PRP-002",
+      "quantity": 1
+    },
+    {
+      "name": "Fin Assembly",
+      "part_number": "DF26-FIN-001",
+      "quantity": 4
+    },
+    {
+      "name": "Multi-Role Targeting System",
+      "part_number": "DF26-MRT-001",
+      "quantity": 1
+    }
+  ],
+  "materials": [
+    {
+      "material": "Tungsten_Alloy",
+      "quantity": 700,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Aluminum_7075",
+      "quantity": 250,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Steel_4340",
+      "quantity": 3000,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Carbon_Fiber",
+      "quantity": 1800,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Titanium_Alloy",
+      "quantity": 140,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Explosives",
+      "quantity": 400,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Electronics",
+      "quantity": 100,
+      "unit": "units",
+      "status": "PENDING"
+    }
+  ],
+  "estimated_completion": {
+    "estimated_days": 30.0,
+    "start_date": "2025-12-15T14:32:36.757931",
+    "completion_date": "2026-01-14T14:32:36.757931"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "missile_system": "DF-17_Hypersonic_Glide_Vehicle",
+  "generation_date": "2025-12-15T14:32:36.673823",
+  "classification": "TOP SECRET - PLA/GRU",
+  "total_mass_kg": 2830,
+  "component_count": 8,
+  "components": [
+    {
+      "name": "Warhead_Section",
+      "step_file": "manufacturing_output/DF-17/cad_models/DF-17_Warhead_Section.step",
+      "material": "Tungsten_Alloy",
+      "mass_kg": 500,
+      "quantity": 1,
+      "manufacturing_notes": {
+        "machining": "5-axis CNC for precision surfaces",
+        "tolerances": "\u00b10.01mm for mating surfaces, \u00b10.1mm general",
+        "surface_finish": "Ra 1.6\u03bcm for aerodynamic surfaces",
+        "heat_treatment": "Not required",
+        "ndi": "Ultrasonic inspection for critical components",
+        "coating": "Thermal barrier coating for high-temp areas",
+        "special_handling": "Explosive containment - Class 1.1",
+        "testing": "X-ray inspection, hydrostatic test"
+      }
+    },
+    {
+      "name": "Guidance_Section",
+      "step_file": "manufacturing_output/DF-17/cad_models/DF-17_Guidance_Section.step",
+      "material": "Aluminum_7075",
+      "mass_kg": 150,
+      "quantity": 1,
+      "manufacturing_notes": {
+        "machining": "5-axis CNC for precision surfaces",
+        "tolerances": "\u00b10.01mm for mating surfaces, \u00b10.1mm general",
+        "surface_finish": "Ra 1.6\u03bcm for aerodynamic surfaces",
+        "heat_treatment": "Not required",
+        "ndi": "Ultrasonic inspection for critical components",
+        "coating": "Thermal barrier coating for high-temp areas",
+        "cleanroom": "Class 100 required",
+        "esd": "ESD protected handling mandatory"
+      }
+    },
+    {
+      "name": "Propulsion_Section",
+      "step_file": "manufacturing_output/DF-17/cad_models/DF-17_Propulsion_Section.step",
+      "material": "Steel_4340",
+      "mass_kg": 2000,
+      "quantity": 1,
+      "manufacturing_notes": {
+        "machining": "5-axis CNC for precision surfaces",
+        "tolerances": "\u00b10.01mm for mating surfaces, \u00b10.1mm general",
+        "surface_finish": "Ra 1.6\u03bcm for aerodynamic surfaces",
+        "heat_treatment": "Required",
+        "ndi": "Ultrasonic inspection for critical components",
+        "coating": "Thermal barrier coating for high-temp areas"
+      }
+    },
+    {
+      "name": "Nose_Cone",
+      "step_file": "manufacturing_output/DF-17/cad_models/DF-17_Nose_Cone.step",
+      "material": "Carbon_Fiber",
+      "mass_kg": 80,
+      "quantity": 1,
+      "manufacturing_notes": {
+        "machining": "5-axis CNC for precision surfaces",
+        "tolerances": "\u00b10.01mm for mating surfaces, \u00b10.1mm general",
+        "surface_finish": "Ra 1.6\u03bcm for aerodynamic surfaces",
+        "heat_treatment": "Not required",
+        "ndi": "Ultrasonic inspection for critical components",
+        "coating": "Thermal barrier coating for high-temp areas"
+      }
+    },
+    {
+      "name": "Fin_Assembly_1",
+      "step_file": "manufacturing_output/DF-17/cad_models/DF-17_Fin_1.step",
+      "material": "Carbon_Fiber",
+      "mass_kg": 25,
+      "quantity": 1,
+      "manufacturing_notes": {
+        "machining": "5-axis CNC for precision surfaces",
+        "tolerances": "\u00b10.01mm for mating surfaces, \u00b10.1mm general",
+        "surface_finish": "Ra 1.6\u03bcm for aerodynamic surfaces",
+        "heat_treatment": "Not required",
+        "ndi": "Ultrasonic inspection for critical components",
+        "coating": "Thermal barrier coating for high-temp areas"
+      }
+    },
+    {
+      "name": "Fin_Assembly_2",
+      "step_file": "manufacturing_output/DF-17/cad_models/DF-17_Fin_2.step",
+      "material": "Carbon_Fiber",
+      "mass_kg": 25,
+      "quantity": 1,
+      "manufacturing_notes": {
+        "machining": "5-axis CNC for precision surfaces",
+        "tolerances": "\u00b10.01mm for mating surfaces, \u00b10.1mm general",
+        "surface_finish": "Ra 1.6\u03bcm for aerodynamic surfaces",
+        "heat_treatment": "Not required",
+        "ndi": "Ultrasonic inspection for critical components",
+        "coating": "Thermal barrier coating for high-temp areas"
+      }
+    },
+    {
+      "name": "Fin_Assembly_3",
+      "step_file": "manufacturing_output/DF-17/cad_models/DF-17_Fin_3.step",
+      "material": "Carbon_Fiber",
+      "mass_kg": 25,
+      "quantity": 1,
+      "manufacturing_notes": {
+        "machining": "5-axis CNC for precision surfaces",
+        "tolerances": "\u00b10.01mm for mating surfaces, \u00b10.1mm general",
+        "surface_finish": "Ra 1.6\u03bcm for aerodynamic surfaces",
+        "heat_treatment": "Not required",
+        "ndi": "Ultrasonic inspection for critical components",
+        "coating": "Thermal barrier coating for high-temp areas"
+      }
+    },
+    {
+      "name": "Fin_Assembly_4",
+      "step_file": "manufacturing_output/DF-17/cad_models/DF-17_Fin_4.step",
+      "material": "Carbon_Fiber",
+      "mass_kg": 25,
+      "quantity": 1,
+      "manufacturing_notes": {
+        "machining": "5-axis CNC for precision surfaces",
+        "tolerances": "\u00b10.01mm for mating surfaces, \u00b10.1mm general",
+        "surface_finish": "Ra 1.6\u03bcm for aerodynamic surfaces",
+        "heat_treatment": "Not required",
+        "ndi": "Ultrasonic inspection for critical components",
+        "coating": "Thermal barrier coating for high-temp areas"
+      }
+    }
+  ],
+  "assembly_sequence": [
+    {
+      "step": 1,
+      "action": "Inspect all components per BOM",
+      "torque": "N/A",
+      "tool": "Calipers, CMM"
+    },
+    {
+      "step": 2,
+      "action": "Mount propulsion section to assembly fixture",
+      "torque": "120 Nm",
+      "tool": "Torque wrench"
+    },
+    {
+      "step": 3,
+      "action": "Install guidance section with alignment pins",
+      "torque": "80 Nm",
+      "tool": "Torque wrench"
+    },
+    {
+      "step": 4,
+      "action": "Install warhead section with explosive safety interlocks",
+      "torque": "150 Nm",
+      "tool": "Torque wrench"
+    },
+    {
+      "step": 5,
+      "action": "Mount fin assemblies with aerodynamic alignment",
+      "torque": "60 Nm",
+      "tool": "Torque wrench"
+    },
+    {
+      "step": 6,
+      "action": "Install avionics and wiring harness",
+      "torque": "20 Nm",
+      "tool": "Torque screwdriver"
+    },
+    {
+      "step": 7,
+      "action": "Pressure test propulsion system",
+      "pressure": "5000 psi",
+      "tool": "Pressure test rig"
+    },
+    {
+      "step": 8,
+      "action": "Final inspection and acceptance testing",
+      "torque": "N/A",
+      "tool": "Test equipment"
+    }
+  ],
+  "quality_requirements": {
+    "dimensional_tolerance": "ISO 2768-m",
+    "material_certification": "MIL-STD-453",
+    "weld_qualification": "AWS D17.1",
+    "ndt_requirements": "Ultrasonic, Radiographic, Dye Penetrant"
+  }
+}

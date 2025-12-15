@@ -1,0 +1,62 @@
+{
+  "report_date": "2025-12-15T14:32:39.879249",
+  "total_orders": 3,
+  "completed_orders": 3,
+  "orders_in_production": 0,
+  "missiles_produced": {
+    "DF-17": 3,
+    "DF-21D": 2,
+    "DF-26": 1
+  },
+  "production_efficiency": 15.0,
+  "material_usage": {
+    "Tungsten_Alloy": {
+      "current": 13500,
+      "usage_rate": 50.0,
+      "waste_percentage": 2.5
+    },
+    "Aluminum_7075": {
+      "current": 38050,
+      "usage_rate": 50.0,
+      "waste_percentage": 2.5
+    },
+    "Steel_4340": {
+      "current": 172500,
+      "usage_rate": 50.0,
+      "waste_percentage": 2.5
+    },
+    "Carbon_Fiber": {
+      "current": 34180,
+      "usage_rate": 50.0,
+      "waste_percentage": 2.5
+    },
+    "Titanium_Alloy": {
+      "current": 19100,
+      "usage_rate": 50.0,
+      "waste_percentage": 2.5
+    },
+    "Explosives": {
+      "current": 4100,
+      "usage_rate": 50.0,
+      "waste_percentage": 2.5
+    },
+    "Electronics": {
+      "current": 3275,
+      "usage_rate": 50.0,
+      "waste_percentage": 2.5
+    }
+  },
+  "quality_metrics": {
+    "first_pass_yield": 98.5,
+    "defect_rate": 0.15,
+    "customer_satisfaction": 99.8
+  },
+  "recommendations": [
+    "Increase Titanium_Alloy inventory by 15% to support DF-21D production surge",
+    "Implement automated quality inspection on WS-003 for weld consistency",
+    "Upgrade WS-201 CNC to 7-axis for improved composite machining",
+    "Reduce setup time on DF-26 line by 20% through fixture optimization",
+    "Implement predictive maintenance on all CNC equipment",
+    "Increase safety stock of critical electronics by 25%"
+  ]
+}

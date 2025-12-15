@@ -1,0 +1,42 @@
+{
+  "order_id": "ORD-20251215-7f309f",
+  "missile_type": "DF-21D",
+  "quantity": 2,
+  "priority": "URGENT",
+  "status": "APPROVED",
+  "created_date": "2025-12-15T14:23:57.543429",
+  "completion_date": null,
+  "components": [
+    {
+      "name": "Warhead Section",
+      "part_number": "DF21D-WHD-001",
+      "quantity": 1
+    },
+    {
+      "name": "Guidance Section",
+      "part_number": "DF21D-GDN-001",
+      "quantity": 1
+    },
+    {
+      "name": "Propulsion Section",
+      "part_number": "DF21D-PRP-001",
+      "quantity": 1
+    },
+    {
+      "name": "Fin Assembly",
+      "part_number": "DF21D-FIN-001",
+      "quantity": 4
+    },
+    {
+      "name": "Maritime Targeting System",
+      "part_number": "DF21D-MTS-001",
+      "quantity": 1
+    }
+  ],
+  "materials": [],
+  "estimated_completion": {
+    "estimated_days": 62.99999999999999,
+    "start_date": "2025-12-15T14:23:57.543429",
+    "completion_date": "2026-02-16T14:23:57.543429"
+  }
+}

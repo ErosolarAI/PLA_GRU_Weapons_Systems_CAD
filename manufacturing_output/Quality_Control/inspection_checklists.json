@@ -1,0 +1,78 @@
+{
+  "receiving_inspection": [
+    {
+      "item": "Material Certification",
+      "requirement": "MIL-STD-453",
+      "method": "Document Review"
+    },
+    {
+      "item": "Dimensional Verification",
+      "requirement": "\u00b10.01mm",
+      "method": "CMM"
+    },
+    {
+      "item": "Surface Finish",
+      "requirement": "Ra 1.6\u03bcm max",
+      "method": "Profilometer"
+    },
+    {
+      "item": "Hardness Test",
+      "requirement": "HRC 40-45",
+      "method": "Rockwell Test"
+    },
+    {
+      "item": "Chemical Composition",
+      "requirement": "Per material spec",
+      "method": "Spectrometer"
+    }
+  ],
+  "in_process_inspection": [
+    {
+      "item": "Machining Tolerances",
+      "requirement": "\u00b10.005mm",
+      "method": "CMM"
+    },
+    {
+      "item": "Tool Wear Monitoring",
+      "requirement": "< 0.1mm wear",
+      "method": "Laser Measurement"
+    },
+    {
+      "item": "Surface Defects",
+      "requirement": "No cracks, pits",
+      "method": "Visual/Dye Penetrant"
+    },
+    {
+      "item": "Feature Location",
+      "requirement": "\u00b10.02mm",
+      "method": "Vision System"
+    }
+  ],
+  "final_inspection": [
+    {
+      "item": "Complete Dimensional",
+      "requirement": "100% features",
+      "method": "CMM"
+    },
+    {
+      "item": "Pressure Test",
+      "requirement": "150% design pressure",
+      "method": "Hydrostatic"
+    },
+    {
+      "item": "Leak Test",
+      "requirement": "< 1x10^-6 cc/sec",
+      "method": "Helium Leak Detector"
+    },
+    {
+      "item": "Functional Test",
+      "requirement": "All systems operational",
+      "method": "Test Bench"
+    },
+    {
+      "item": "X-ray Inspection",
+      "requirement": "No internal defects",
+      "method": "Radiography"
+    }
+  ]
+}

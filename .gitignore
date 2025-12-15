@@ -1,0 +1,20 @@
+# Local AI/agent config
+.agi/
+
+# CAD generated files
+*.step
+*.stp
+*.stl
+*.iges
+*.igs
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store

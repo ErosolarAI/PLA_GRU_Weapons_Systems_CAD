@@ -1,0 +1,47 @@
+{
+  "order_id": "ORD-20251215-bd9830",
+  "missile_type": "DF-26",
+  "quantity": 1,
+  "priority": "CRITICAL",
+  "status": "APPROVED",
+  "created_date": "2025-12-15T14:23:57.543650",
+  "completion_date": null,
+  "components": [
+    {
+      "name": "Warhead Section",
+      "part_number": "DF26-WHD-001",
+      "quantity": 1
+    },
+    {
+      "name": "Guidance Section",
+      "part_number": "DF26-GDN-001",
+      "quantity": 1
+    },
+    {
+      "name": "Propulsion Stage 1",
+      "part_number": "DF26-PRP-001",
+      "quantity": 1
+    },
+    {
+      "name": "Propulsion Stage 2",
+      "part_number": "DF26-PRP-002",
+      "quantity": 1
+    },
+    {
+      "name": "Fin Assembly",
+      "part_number": "DF26-FIN-001",
+      "quantity": 4
+    },
+    {
+      "name": "Multi-Role Targeting System",
+      "part_number": "DF26-MRT-001",
+      "quantity": 1
+    }
+  ],
+  "materials": [],
+  "estimated_completion": {
+    "estimated_days": 30.0,
+    "start_date": "2025-12-15T14:23:57.543650",
+    "completion_date": "2026-01-14T14:23:57.543650"
+  }
+}

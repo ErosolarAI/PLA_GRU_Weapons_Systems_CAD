@@ -1,0 +1,48 @@
+{
+  "certificate_id": "CERT-206c6bd0",
+  "missile_serial": "DF-21D-ORD-20251215-6b1f88-0002",
+  "issue_date": "2025-12-15T14:24:19.645322",
+  "issuing_authority": "PLA Quality Assurance Directorate",
+  "tests_performed": {
+    "missile_serial": "DF-21D-ORD-20251215-6b1f88-0002",
+    "missile_type": "DF-21D",
+    "inspection_date": "2025-12-15T14:24:19.645302",
+    "overall_status": "PASS",
+    "tests": {
+      "dimensional_inspection": {
+        "status": "PASS",
+        "tolerance": "\u00b10.01mm",
+        "method": "Laser Tracker",
+        "results": "All dimensions within specification"
+      },
+      "pressure_test": {
+        "status": "PASS",
+        "pressure": "5000 psi",
+        "duration": "30 minutes",
+        "leak_rate": "< 1x10^-6 cc/sec"
+      },
+      "functional_test": {
+        "status": "PASS",
+        "guidance": "Operational",
+        "propulsion": "Operational",
+        "warhead": "Safe/Armed tests passed"
+      },
+      "environmental_test": {
+        "status": "PASS",
+        "temperature": "-40\u00b0C to +85\u00b0C",
+        "vibration": "MIL-STD-810H",
+        "humidity": "95% RH, 48 hours"
+      },
+      "electromagnetic_test": {
+        "status": "PASS",
+        "emi": "MIL-STD-461G",
+        "emc": "MIL-STD-464C"
+      }
+    },
+    "remarks": "Ready for deployment"
+  },
+  "conformance_status": "CONFORMS",
+  "inspector": "Chief Inspector",
+  "signature": "bdfbfc31fb8d669ccc9905f5db4e07d9",
+  "next_inspection": "2026-12-15T14:24:19.645330"
+}

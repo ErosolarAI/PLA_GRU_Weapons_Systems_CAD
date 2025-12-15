@@ -1,0 +1,16 @@
+[
+  {
+    "material": "Inconel_718",
+    "current": 0,
+    "reorder_point": 2000,
+    "reorder_quantity": 3000,
+    "urgency": "CRITICAL"
+  },
+  {
+    "material": "Copper_Beryllium",
+    "current": 0,
+    "reorder_point": 1000,
+    "reorder_quantity": 1500,
+    "urgency": "CRITICAL"
+  }
+]

@@ -1,0 +1,174 @@
+{
+  "timestamp": "2025-12-15T14:32:39.889894",
+  "command": "/Volumes/4TB/GH_Folder/PLA_GRU_Weapons_Systems_CAD/production_system.py",
+  "return_code": 0,
+  "stdout": "cate_DF-21D-ORD-20251215-6b1f88-0001.json\n  \u2022 quality/Certificate_DF-17-ORD-20251215-f4da04-0002.json\n  \u2022 quality/Certificate_DF-21D-ORD-20251215-906418-0002.json\n  \u2022 quality/Certificate_DF-17-ORD-20251215-1ab0aa-0003.json\n  \u2022 quality/Certificate_DF-21D-ORD-20251215-66ff15-0001.json\n  \u2022 quality/Certificate_DF-17-ORD-20251215-1ab0aa-0002.json\n  \u2022 quality/Certificate_DF-17-ORD-20251215-f4da04-0003.json\n  \u2022 orders/ORD-20251215-aff608/order.json\n  \u2022 orders/ORD-20251215-bd9830/order.json\n  \u2022 orders/ORD-20251215-ad141a/order.json\n  \u2022 orders/ORD-20251215-7f309f/order.json\n  \u2022 orders/ORD-20251215-f4da04/order.json\n  \u2022 orders/ORD-20251215-906418/order.json\n  \u2022 orders/ORD-20251215-66ff15/order.json\n  \u2022 orders/ORD-20251215-4f7e38/order.json\n  \u2022 orders/ORD-20251215-926df6/order.json\n  \u2022 orders/ORD-20251215-03c69b/order.json\n  \u2022 orders/ORD-20251215-6b1f88/order.json\n  \u2022 orders/ORD-20251215-1ab0aa/order.json\n\nProduction system ready for full-scale manufacturing.\nClassification: TOP SECRET - PLA/GRU\n",
+  "stderr": "",
+  "output_files": [
+    {
+      "path": "production_system_output/production_report.json",
+      "size": 1592,
+      "modified": "2025-12-15T14:32:39.879411"
+    },
+    {
+      "path": "production_system_output/reorder_report.json",
+      "size": 289,
+      "modified": "2025-12-15T14:32:39.879564"
+    },
+    {
+      "path": "production_system_output/inventory.json",
+      "size": 16778,
+      "modified": "2025-12-15T14:32:39.360518"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-21D-ORD-20251215-66ff15-0002.json",
+      "size": 1492,
+      "modified": "2025-12-15T14:24:57.916217"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-17-ORD-20251215-1ab0aa-0001.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:24:18.605784"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-26-ORD-20251215-ad141a-0001.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:32:39.878834"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-17-ORD-20251215-f4da04-0001.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:32:38.320264"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-21D-ORD-20251215-906418-0001.json",
+      "size": 1492,
+      "modified": "2025-12-15T14:32:39.355464"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-17-ORD-20251215-aff608-0002.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:24:56.879745"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-21D-ORD-20251215-6b1f88-0002.json",
+      "size": 1492,
+      "modified": "2025-12-15T14:24:19.645548"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-17-ORD-20251215-aff608-0003.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:24:56.880022"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-26-ORD-20251215-4f7e38-0001.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:24:58.439332"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-17-ORD-20251215-aff608-0001.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:24:56.879403"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-26-ORD-20251215-03c69b-0001.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:24:20.157691"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-21D-ORD-20251215-6b1f88-0001.json",
+      "size": 1492,
+      "modified": "2025-12-15T14:24:19.645180"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-17-ORD-20251215-f4da04-0002.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:32:38.320672"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-21D-ORD-20251215-906418-0002.json",
+      "size": 1492,
+      "modified": "2025-12-15T14:32:39.355866"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-17-ORD-20251215-1ab0aa-0003.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:24:18.606340"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-21D-ORD-20251215-66ff15-0001.json",
+      "size": 1492,
+      "modified": "2025-12-15T14:24:57.915729"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-17-ORD-20251215-1ab0aa-0002.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:24:18.606138"
+    },
+    {
+      "path": "production_system_output/quality/Certificate_DF-17-ORD-20251215-f4da04-0003.json",
+      "size": 1489,
+      "modified": "2025-12-15T14:32:38.320953"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-aff608/order.json",
+      "size": 1642,
+      "modified": "2025-12-15T14:24:56.880479"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-bd9830/order.json",
+      "size": 1044,
+      "modified": "2025-12-15T14:23:57.543840"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-ad141a/order.json",
+      "size": 1888,
+      "modified": "2025-12-15T14:32:39.879164"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-7f309f/order.json",
+      "size": 953,
+      "modified": "2025-12-15T14:23:57.543602"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-f4da04/order.json",
+      "size": 1642,
+      "modified": "2025-12-15T14:32:38.321497"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-906418/order.json",
+      "size": 1679,
+      "modified": "2025-12-15T14:32:39.356180"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-66ff15/order.json",
+      "size": 1679,
+      "modified": "2025-12-15T14:24:57.916579"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-4f7e38/order.json",
+      "size": 1888,
+      "modified": "2025-12-15T14:24:58.439681"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-926df6/order.json",
+      "size": 1622,
+      "modified": "2025-12-15T14:23:57.545606"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-03c69b/order.json",
+      "size": 1888,
+      "modified": "2025-12-15T14:24:20.157991"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-6b1f88/order.json",
+      "size": 1679,
+      "modified": "2025-12-15T14:24:19.645880"
+    },
+    {
+      "path": "production_system_output/orders/ORD-20251215-1ab0aa/order.json",
+      "size": 1642,
+      "modified": "2025-12-15T14:24:18.606619"
+    }
+  ]
+}
