@@ -1,0 +1,95 @@
+{
+  "DF-17": {
+    "type": "hypersonic_missile",
+    "dimensions": {
+      "length_m": 10.7,
+      "diameter_m": 0.88
+    },
+    "data_link_antennas": 4,
+    "antenna_positions": [
+      "0\u00b0",
+      "90\u00b0",
+      "180\u00b0",
+      "270\u00b0"
+    ],
+    "materials": [
+      "TC4_Titanium",
+      "SiC_TPS",
+      "7A04_Aluminum"
+    ],
+    "joint_exercise_mod": "R-438_compatible_antenna",
+    "output_formats": [
+      "STEP",
+      "STL",
+      "IGES"
+    ]
+  },
+  "J-20": {
+    "type": "stealth_fighter",
+    "dimensions": {
+      "length_m": 21.2,
+      "width_m": 13.5,
+      "height_m": 4.5
+    },
+    "data_link_arrays": [
+      "Collaborative_Combat_8x",
+      "PLA_TDL_16_2x"
+    ],
+    "stealth_features": [
+      "Diamond_shape",
+      "Chined_fuselage",
+      "Sawtooth_edges"
+    ],
+    "russian_integration": "BARS_compatible",
+    "output_formats": [
+      "STEP",
+      "STL"
+    ]
+  },
+  "Type 055": {
+    "type": "destroyer",
+    "dimensions": {
+      "length_m": 180,
+      "beam_m": 20,
+      "draft_m": 6
+    },
+    "weapons": [
+      "YJ-21_112_cells",
+      "HQ-9B_64_cells",
+      "HHQ-10_24_cells"
+    ],
+    "sensors": [
+      "Type_346B_AESA_4x",
+      "H/LJG-346G"
+    ],
+    "data_links": [
+      "Integrated_Network",
+      "PLA_TDL_16",
+      "SatCom"
+    ],
+    "russian_joint": "R-438_gateway",
+    "output_formats": [
+      "STEP",
+      "STL"
+    ]
+  },
+  "S-400": {
+    "type": "air_defense",
+    "dimensions": {
+      "length_m": 12,
+      "width_m": 3,
+      "height_m": 4
+    },
+    "components": [
+      "91N6E_radar",
+      "92N6E_radar",
+      "5P85TE2_launcher"
+    ],
+    "pla_integration": "PLA_TDL_16_interface",
+    "interoperability": "Joint_target_data_exchange",
+    "output_formats": [
+      "STEP",
+      "STL"
+    ]
+  }
+}

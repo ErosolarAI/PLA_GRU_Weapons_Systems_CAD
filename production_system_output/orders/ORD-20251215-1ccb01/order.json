@@ -1,0 +1,79 @@
+{
+  "order_id": "ORD-20251215-1ccb01",
+  "missile_type": "DF-21D",
+  "quantity": 2,
+  "priority": "URGENT",
+  "status": "COMPLETED",
+  "created_date": "2025-12-15T15:13:11.187313",
+  "completion_date": "2025-12-15T15:13:13.774159",
+  "components": [
+    {
+      "name": "Warhead Section",
+      "part_number": "DF21D-WHD-001",
+      "quantity": 1
+    },
+    {
+      "name": "Guidance Section",
+      "part_number": "DF21D-GDN-001",
+      "quantity": 1
+    },
+    {
+      "name": "Propulsion Section",
+      "part_number": "DF21D-PRP-001",
+      "quantity": 1
+    },
+    {
+      "name": "Fin Assembly",
+      "part_number": "DF21D-FIN-001",
+      "quantity": 4
+    },
+    {
+      "name": "Maritime Targeting System",
+      "part_number": "DF21D-MTS-001",
+      "quantity": 1
+    }
+  ],
+  "materials": [
+    {
+      "material": "Tungsten_Alloy",
+      "quantity": 800,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Aluminum_7075",
+      "quantity": 200,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Steel_4340",
+      "quantity": 3500,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Titanium_Alloy",
+      "quantity": 160,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Explosives",
+      "quantity": 500,
+      "unit": "kg",
+      "status": "PENDING"
+    },
+    {
+      "material": "Electronics",
+      "quantity": 75,
+      "unit": "units",
+      "status": "PENDING"
+    }
+  ],
+  "estimated_completion": {
+    "estimated_days": 62.99999999999999,
+    "start_date": "2025-12-15T15:13:11.187313",
+    "completion_date": "2026-02-16T15:13:11.187313"
+  }
+}

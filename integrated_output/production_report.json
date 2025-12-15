@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-12-15T15:12:24.632660",
+  "total_monthly_capacity": 72,
+  "systems": {
+    "DF-17": {
+      "rate": "12/month",
+      "facility": "Beijing Xinghang",
+      "deployed": "100+"
+    },
+    "DF-26": {
+      "rate": "10/month",
+      "facility": "Beijing Xinghang",
+      "deployed": "400+"
+    },
+    "J-20": {
+      "rate": "30+/year",
+      "facility": "Chengdu",
+      "deployed": "300+"
+    },
+    "Type 055": {
+      "rate": "2/year",
+      "facility": "Jiangnan",
+      "deployed": "8+"
+    },
+    "PL-15": {
+      "rate": "50/month",
+      "facility": "CAMA",
+      "deployed": "1000+"
+    }
+  },
+  "facilities": {
+    "Beijing Xinghang": 2,
+    "Chengdu": 1,
+    "Jiangnan": 1,
+    "CAMA": 1
+  },
+  "key_insights": [
+    "DF-26 deployment exceeds 400 missiles - major deterrent capability",
+    "J-20 fleet of 300+ provides air superiority in Western Pacific",
+    "Monthly production capacity of 72 major systems enables rapid force expansion"
+  ]
+}

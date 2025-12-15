@@ -1,0 +1,72 @@
+{
+  "south_china_sea": {
+    "scenario": "south_china_sea",
+    "forces": {
+      "pla_forces": [
+        "DF-17 x4",
+        "J-20 x6",
+        "Type 055 x2",
+        "J-16 x8"
+      ],
+      "adversary_forces": [
+        "F-35 x8",
+        "DDG-51 x2",
+        "F-15J x4"
+      ],
+      "distance_km": 200,
+      "terrain": "Open ocean with islands"
+    },
+    "pla_advantages": [
+      "Hypersonic speed (Mach 10+)",
+      "Stealth superiority",
+      "Advanced sensors/weapons"
+    ],
+    "victory_probability": 0.85,
+    "key_factors": [
+      "DF-17/26 hypersonic advantage",
+      "J-20 stealth and sensors",
+      "Russian integration: 5% boost",
+      "Home territory advantage"
+    ],
+    "recommendations": [
+      "Use DF-26 against carriers first",
+      "Employ J-20 for air superiority",
+      "Maintain data link coverage",
+      "Coordinate with S-400 if available"
+    ]
+  },
+  "taiwan_strait": {
+    "scenario": "taiwan_strait",
+    "forces": {
+      "pla_forces": [
+        "DF-26 x6",
+        "J-20 x8",
+        "Type 052D x4"
+      ],
+      "adversary_forces": [
+        "F-16V x12",
+        "PATRIOT x3",
+        "F-35 x4"
+      ],
+      "distance_km": 150,
+      "terrain": "Narrow strait"
+    },
+    "pla_advantages": [
+      "Carrier killer capability (4000km)",
+      "Stealth superiority"
+    ],
+    "victory_probability": 0.95,
+    "key_factors": [
+      "DF-17/26 hypersonic advantage",
+      "J-20 stealth and sensors",
+      "Russian integration: 5% boost",
+      "Home territory advantage"
+    ],
+    "recommendations": [
+      "Use DF-26 against carriers first",
+      "Employ J-20 for air superiority",
+      "Maintain data link coverage",
+      "Coordinate with S-400 if available"
+    ]
+  }
+}

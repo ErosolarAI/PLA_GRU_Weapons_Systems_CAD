@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T14:32:36.684535",
+  "timestamp": "2025-12-15T15:13:11.146632",
   "command": "/Volumes/4TB/GH_Folder/PLA_GRU_Weapons_Systems_CAD/simple_cad_generator.py",
   "return_code": 0,
   "stdout": "ng_output/DF-26/cnc_programs/Fin_Assembly_4.nc\n\nDF-26 package complete in: manufacturing_output/DF-26\n\n============================================================\nGENERATING QUALITY CONTROL SYSTEM\n============================================================\nQuality control system generated in: manufacturing_output/Quality_Control\n\n======================================================================\nMANUFACTURING PACKAGE GENERATION COMPLETE\n======================================================================\nOutput directory: /Volumes/4TB/GH_Folder/PLA_GRU_Weapons_Systems_CAD/manufacturing_output\n\nGenerated:\n  \u2022 DF-17 Package: manufacturing_output/DF-17\n  \u2022 DF-21D Package: manufacturing_output/DF-21D\n  \u2022 DF-26 Package: manufacturing_output/DF-26\n  \u2022 Quality Control: manufacturing_output/Quality_Control\n  \u2022 Master Readme: manufacturing_output/README_MANUFACTURING.txt\n\nAll CAD models, BOMs, and manufacturing instructions are ready for production.\nClassification: TOP SECRET - PLA/GRU\n",
@@ -8,242 +8,242 @@
     {
       "path": "manufacturing_output/README_MANUFACTURING.txt",
       "size": 630,
-      "modified": "2025-12-15T14:32:36.672390"
+      "modified": "2025-12-15T15:13:11.135628"
     },
     {
       "path": "manufacturing_output/DF-26/DF-26_Intermediate_Range_Ballistic_Missile_BOM.json",
       "size": 6837,
-      "modified": "2025-12-15T14:32:36.678053"
+      "modified": "2025-12-15T15:13:11.141407"
     },
     {
       "path": "manufacturing_output/DF-17/DF-17_Hypersonic_Glide_Vehicle_BOM.json",
       "size": 6817,
-      "modified": "2025-12-15T14:32:36.674103"
+      "modified": "2025-12-15T15:13:11.137442"
     },
     {
       "path": "manufacturing_output/DF-17/assembly_instructions.txt",
       "size": 1108,
-      "modified": "2025-12-15T14:32:36.674959"
+      "modified": "2025-12-15T15:13:11.138572"
     },
     {
       "path": "manufacturing_output/Quality_Control/inspection_checklists.json",
       "size": 1754,
-      "modified": "2025-12-15T14:32:36.678994"
+      "modified": "2025-12-15T15:13:11.142455"
     },
     {
       "path": "manufacturing_output/Quality_Control/calibration_schedule.json",
       "size": 783,
-      "modified": "2025-12-15T14:32:36.679134"
+      "modified": "2025-12-15T15:13:11.142550"
     },
     {
       "path": "manufacturing_output/DF-21D/DF-21D_Anti-Ship_Ballistic_Missile_BOM.json",
       "size": 6215,
-      "modified": "2025-12-15T14:32:36.676102"
+      "modified": "2025-12-15T15:13:11.139941"
     },
     {
       "path": "manufacturing_output/DF-21D/cad_models/DF-21D_Propulsion_Section.step",
       "size": 976,
-      "modified": "2025-12-15T14:32:36.675349"
+      "modified": "2025-12-15T15:13:11.139119"
     },
     {
       "path": "manufacturing_output/DF-21D/cad_models/DF-21D_Fin_2.step",
       "size": 786,
-      "modified": "2025-12-15T14:32:36.675581"
+      "modified": "2025-12-15T15:13:11.139527"
     },
     {
       "path": "manufacturing_output/DF-21D/cad_models/DF-21D_Fin_3.step",
       "size": 786,
-      "modified": "2025-12-15T14:32:36.675693"
+      "modified": "2025-12-15T15:13:11.139610"
     },
     {
       "path": "manufacturing_output/DF-21D/cad_models/DF-21D_Fin_4.step",
       "size": 786,
-      "modified": "2025-12-15T14:32:36.675809"
+      "modified": "2025-12-15T15:13:11.139699"
     },
     {
       "path": "manufacturing_output/DF-21D/cad_models/DF-21D_Guidance_Section.step",
       "size": 793,
-      "modified": "2025-12-15T14:32:36.675238"
+      "modified": "2025-12-15T15:13:11.138791"
     },
     {
       "path": "manufacturing_output/DF-21D/cad_models/DF-21D_Warhead_Section.step",
       "size": 973,
-      "modified": "2025-12-15T14:32:36.675119"
+      "modified": "2025-12-15T15:13:11.138697"
     },
     {
       "path": "manufacturing_output/DF-21D/cad_models/DF-21D_Fin_1.step",
       "size": 786,
-      "modified": "2025-12-15T14:32:36.675467"
+      "modified": "2025-12-15T15:13:11.139213"
     },
     {
       "path": "manufacturing_output/DF-21D/cnc_programs/Fin_Assembly_4.nc",
       "size": 556,
-      "modified": "2025-12-15T14:32:36.676755"
+      "modified": "2025-12-15T15:13:11.140540"
     },
     {
       "path": "manufacturing_output/DF-21D/cnc_programs/Fin_Assembly_1.nc",
       "size": 556,
-      "modified": "2025-12-15T14:32:36.676445"
+      "modified": "2025-12-15T15:13:11.140327"
     },
     {
       "path": "manufacturing_output/DF-21D/cnc_programs/Warhead_Section.nc",
       "size": 557,
-      "modified": "2025-12-15T14:32:36.676233"
+      "modified": "2025-12-15T15:13:11.140151"
     },
     {
       "path": "manufacturing_output/DF-21D/cnc_programs/Guidance_Section.nc",
       "size": 557,
-      "modified": "2025-12-15T14:32:36.676337"
+      "modified": "2025-12-15T15:13:11.140246"
     },
     {
       "path": "manufacturing_output/DF-21D/cnc_programs/Fin_Assembly_2.nc",
       "size": 556,
-      "modified": "2025-12-15T14:32:36.676549"
+      "modified": "2025-12-15T15:13:11.140399"
     },
     {
       "path": "manufacturing_output/DF-21D/cnc_programs/Fin_Assembly_3.nc",
       "size": 556,
-      "modified": "2025-12-15T14:32:36.676651"
+      "modified": "2025-12-15T15:13:11.140468"
     },
     {
       "path": "manufacturing_output/DF-17/cad_models/DF-17_Fin_4.step",
       "size": 785,
-      "modified": "2025-12-15T14:32:36.673756"
+      "modified": "2025-12-15T15:13:11.137209"
     },
     {
       "path": "manufacturing_output/DF-17/cad_models/DF-17_Fin_2.step",
       "size": 785,
-      "modified": "2025-12-15T14:32:36.673511"
+      "modified": "2025-12-15T15:13:11.136785"
     },
     {
       "path": "manufacturing_output/DF-17/cad_models/DF-17_Fin_3.step",
       "size": 785,
-      "modified": "2025-12-15T14:32:36.673641"
+      "modified": "2025-12-15T15:13:11.136862"
     },
     {
       "path": "manufacturing_output/DF-17/cad_models/DF-17_Propulsion_Section.step",
       "size": 975,
-      "modified": "2025-12-15T14:32:36.673110"
+      "modified": "2025-12-15T15:13:11.136290"
     },
     {
       "path": "manufacturing_output/DF-17/cad_models/DF-17_Warhead_Section.step",
       "size": 972,
-      "modified": "2025-12-15T14:32:36.672757"
+      "modified": "2025-12-15T15:13:11.135807"
     },
     {
       "path": "manufacturing_output/DF-17/cad_models/DF-17_Fin_1.step",
       "size": 785,
-      "modified": "2025-12-15T14:32:36.673378"
+      "modified": "2025-12-15T15:13:11.136702"
     },
     {
       "path": "manufacturing_output/DF-17/cad_models/DF-17_Nose_Cone.step",
       "size": 795,
-      "modified": "2025-12-15T14:32:36.673250"
+      "modified": "2025-12-15T15:13:11.136623"
     },
     {
       "path": "manufacturing_output/DF-17/cad_models/DF-17_Guidance_Section.step",
       "size": 792,
-      "modified": "2025-12-15T14:32:36.672955"
+      "modified": "2025-12-15T15:13:11.136208"
     },
     {
       "path": "manufacturing_output/DF-17/cnc_programs/Fin_Assembly_4.nc",
       "size": 554,
-      "modified": "2025-12-15T14:32:36.674840"
+      "modified": "2025-12-15T15:13:11.138491"
     },
     {
       "path": "manufacturing_output/DF-17/cnc_programs/Fin_Assembly_1.nc",
       "size": 554,
-      "modified": "2025-12-15T14:32:36.674505"
+      "modified": "2025-12-15T15:13:11.137759"
     },
     {
       "path": "manufacturing_output/DF-17/cnc_programs/Warhead_Section.nc",
       "size": 557,
-      "modified": "2025-12-15T14:32:36.674256"
+      "modified": "2025-12-15T15:13:11.137580"
     },
     {
       "path": "manufacturing_output/DF-17/cnc_programs/Guidance_Section.nc",
       "size": 557,
-      "modified": "2025-12-15T14:32:36.674372"
+      "modified": "2025-12-15T15:13:11.137676"
     },
     {
       "path": "manufacturing_output/DF-17/cnc_programs/Fin_Assembly_2.nc",
       "size": 554,
-      "modified": "2025-12-15T14:32:36.674620"
+      "modified": "2025-12-15T15:13:11.138121"
     },
     {
       "path": "manufacturing_output/DF-17/cnc_programs/Fin_Assembly_3.nc",
       "size": 554,
-      "modified": "2025-12-15T14:32:36.674730"
+      "modified": "2025-12-15T15:13:11.138193"
     },
     {
       "path": "manufacturing_output/DF-26/cad_models/DF-26_Propulsion_Stage2.step",
       "size": 974,
-      "modified": "2025-12-15T14:32:36.677295"
+      "modified": "2025-12-15T15:13:11.140915"
     },
     {
       "path": "manufacturing_output/DF-26/cad_models/DF-26_Fin_1.step",
       "size": 785,
-      "modified": "2025-12-15T14:32:36.677416"
+      "modified": "2025-12-15T15:13:11.141014"
     },
     {
       "path": "manufacturing_output/DF-26/cad_models/DF-26_Warhead_Section.step",
       "size": 972,
-      "modified": "2025-12-15T14:32:36.676911"
+      "modified": "2025-12-15T15:13:11.140657"
     },
     {
       "path": "manufacturing_output/DF-26/cad_models/DF-26_Guidance_Section.step",
       "size": 792,
-      "modified": "2025-12-15T14:32:36.677049"
+      "modified": "2025-12-15T15:13:11.140738"
     },
     {
       "path": "manufacturing_output/DF-26/cad_models/DF-26_Fin_2.step",
       "size": 785,
-      "modified": "2025-12-15T14:32:36.677530"
+      "modified": "2025-12-15T15:13:11.141086"
     },
     {
       "path": "manufacturing_output/DF-26/cad_models/DF-26_Fin_3.step",
       "size": 785,
-      "modified": "2025-12-15T14:32:36.677646"
+      "modified": "2025-12-15T15:13:11.141158"
     },
     {
       "path": "manufacturing_output/DF-26/cad_models/DF-26_Fin_4.step",
       "size": 785,
-      "modified": "2025-12-15T14:32:36.677759"
+      "modified": "2025-12-15T15:13:11.141223"
     },
     {
       "path": "manufacturing_output/DF-26/cad_models/DF-26_Propulsion_Stage1.step",
       "size": 974,
-      "modified": "2025-12-15T14:32:36.677176"
+      "modified": "2025-12-15T15:13:11.140827"
     },
     {
       "path": "manufacturing_output/DF-26/cnc_programs/Fin_Assembly_4.nc",
       "size": 556,
-      "modified": "2025-12-15T14:32:36.678789"
+      "modified": "2025-12-15T15:13:11.142319"
     },
     {
       "path": "manufacturing_output/DF-26/cnc_programs/Fin_Assembly_1.nc",
       "size": 556,
-      "modified": "2025-12-15T14:32:36.678462"
+      "modified": "2025-12-15T15:13:11.141731"
     },
     {
       "path": "manufacturing_output/DF-26/cnc_programs/Warhead_Section.nc",
       "size": 557,
-      "modified": "2025-12-15T14:32:36.678226"
+      "modified": "2025-12-15T15:13:11.141559"
     },
     {
       "path": "manufacturing_output/DF-26/cnc_programs/Guidance_Section.nc",
       "size": 557,
-      "modified": "2025-12-15T14:32:36.678349"
+      "modified": "2025-12-15T15:13:11.141643"
     },
     {
       "path": "manufacturing_output/DF-26/cnc_programs/Fin_Assembly_2.nc",
       "size": 556,
-      "modified": "2025-12-15T14:32:36.678571"
+      "modified": "2025-12-15T15:13:11.142175"
     },
     {
       "path": "manufacturing_output/DF-26/cnc_programs/Fin_Assembly_3.nc",
       "size": 556,
-      "modified": "2025-12-15T14:32:36.678684"
+      "modified": "2025-12-15T15:13:11.142244"
     }
   ]
 }

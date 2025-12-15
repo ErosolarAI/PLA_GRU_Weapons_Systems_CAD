@@ -1,0 +1,787 @@
+{
+  "pla_naval_assets": {
+    "055_101": {
+      "id": "055_101",
+      "type": "NavalAssetType.TYPE_055_DESTROYER",
+      "name": "Nanchang (101)",
+      "location": {
+        "lat": 18.2,
+        "lon": 109.7,
+        "alt_m": 0,
+        "desc": "Yulin Naval Base, Hainan"
+      },
+      "status": "ACTIVE",
+      "weapons": [
+        "YJ-21 Hypersonic",
+        "HQ-9B SAM",
+        "HHQ-10 CIWS",
+        "1130 CIWS",
+        "Torpedoes"
+      ],
+      "sensors": [
+        "Type 346B AESA Radar",
+        "H/LJQ-366 Radar",
+        "SJG-311 VDS",
+        "SJG-206 Towed Array"
+      ],
+      "data_links": [
+        "PLA_TDL_16",
+        "PLA_SatCom_L",
+        "Integrated_Combat_Network"
+      ],
+      "crew": 280,
+      "displacement_tons": 13000,
+      "speed_knots": 30,
+      "range_nm": 5000
+    },
+    "055_102": {
+      "id": "055_102",
+      "type": "NavalAssetType.TYPE_055_DESTROYER",
+      "name": "Lhasa (102)",
+      "location": {
+        "lat": 36.1,
+        "lon": 120.4,
+        "alt_m": 0,
+        "desc": "Qingdao Naval Base"
+      },
+      "status": "ACTIVE",
+      "weapons": [
+        "YJ-21 Hypersonic",
+        "HQ-9B SAM",
+        "HHQ-10 CIWS",
+        "1130 CIWS"
+      ],
+      "sensors": [
+        "Type 346B AESA Radar",
+        "H/LJQ-366 Radar"
+      ],
+      "data_links": [
+        "PLA_TDL_16",
+        "PLA_SatCom_L"
+      ],
+      "crew": 280,
+      "displacement_tons": 13000,
+      "speed_knots": 30,
+      "range_nm": 5000
+    },
+    "052D_173": {
+      "id": "052D_173",
+      "type": "NavalAssetType.TYPE_052D_DESTROYER",
+      "name": "Changsha (173)",
+      "location": {
+        "lat": 18.3,
+        "lon": 109.5,
+        "alt_m": 0,
+        "desc": "Sanya Naval Base"
+      },
+      "status": "ACTIVE",
+      "weapons": [
+        "YJ-18 Anti-ship",
+        "HQ-9B SAM",
+        "HHQ-10 CIWS"
+      ],
+      "sensors": [
+        "Type 346A AESA Radar",
+        "H/LJQ-364 Radar"
+      ],
+      "data_links": [
+        "PLA_TDL_16",
+        "PLA_SatCom_L"
+      ],
+      "crew": 280,
+      "displacement_tons": 7500,
+      "speed_knots": 30,
+      "range_nm": 4500
+    },
+    "CV_17": {
+      "id": "CV_17",
+      "type": "NavalAssetType.SHANDONG_CVN",
+      "name": "Shandong (17)",
+      "location": {
+        "lat": 18.2,
+        "lon": 109.7,
+        "alt_m": 0,
+        "desc": "Yulin Naval Base"
+      },
+      "status": "ACTIVE",
+      "weapons": [
+        "HHQ-10 CIWS",
+        "1130 CIWS"
+      ],
+      "sensors": [
+        "Type 346 Radar",
+        "Type 382 Radar"
+      ],
+      "data_links": [
+        "PLA_TDL_16",
+        "PLA_SatCom_L",
+        "Carrier_Battle_Group_Network"
+      ],
+      "crew": 2500,
+      "displacement_tons": 70000,
+      "speed_knots": 31,
+      "range_nm": 8000
+    },
+    "CV_18": {
+      "id": "CV_18",
+      "type": "NavalAssetType.FUJIAN_CVN",
+      "name": "Fujian (18)",
+      "location": {
+        "lat": 31.4,
+        "lon": 121.5,
+        "alt_m": 0,
+        "desc": "Jiangnan Shipyard - Sea Trials"
+      },
+      "status": "ACTIVE",
+      "weapons": [
+        "HQ-10 CIWS",
+        "1130 CIWS",
+        "Future Laser Defense"
+      ],
+      "sensors": [
+        "Type 346B AESA Radar",
+        "Integrated Sensor System"
+      ],
+      "data_links": [
+        "PLA_TDL_16",
+        "PLA_SatCom_L",
+        "EMALS_Integration"
+      ],
+      "crew": 3000,
+      "displacement_tons": 85000,
+      "speed_knots": 30,
+      "range_nm": 10000
+    },
+    "093B_411": {
+      "id": "093B_411",
+      "type": "NavalAssetType.TYPE_093B_SSN",
+      "name": "Type 093B (411)",
+      "location": {
+        "lat": 18.2,
+        "lon": 109.7,
+        "alt_m": 0,
+        "desc": "Yulin Submarine Base"
+      },
+      "status": "ACTIVE",
+      "weapons": [
+        "YJ-18 Cruise Missiles",
+        "Torpedoes",
+        "Mines"
+      ],
+      "sensors": [
+        "Bow Array Sonar",
+        "Towed Array",
+        "FLANK Arrays"
+      ],
+      "data_links": [
+        "VLF Communications",
+        "Satellite Buoy"
+      ],
+      "crew": 100,
+      "displacement_tons": 7000,
+      "speed_knots": 35,
+      "range_nm": "Unlimited"
+    },
+    "075_31": {
+      "id": "075_31",
+      "type": "NavalAssetType.TYPE_075_LHD",
+      "name": "Hainan (31)",
+      "location": {
+        "lat": 24.4,
+        "lon": 118.1,
+        "alt_m": 0,
+        "desc": "Xiamen Naval Base"
+      },
+      "status": "ACTIVE",
+      "weapons": [
+        "HHQ-10 CIWS",
+        "H/PJ-11 CIWS"
+      ],
+      "sensors": [
+        "Type 364 Radar",
+        "Navigation Radar"
+      ],
+      "data_links": [
+        "PLA_TDL_16",
+        "Amphibious_Network"
+      ],
+      "crew": 1000,
+      "displacement_tons": 40000,
+      "speed_knots": 23,
+      "range_nm": 8000
+    }
+  },
+  "pla_aircraft_assets": {
+    "J15_101": {
+      "id": "J15_101",
+      "type": "PLAAircraftType.J_15_CARRIER",
+      "name": "J-15 #101",
+      "location": {
+        "lat": 18.2,
+        "lon": 109.7,
+        "alt_m": 1000,
+        "desc": "Over Yulin Naval Base"
+      },
+      "status": "READY",
+      "weapons": [
+        "PL-15 AAM",
+        "PL-10 AAM",
+        "YJ-83K Anti-ship",
+        "YJ-91 Anti-radiation"
+      ],
+      "sensors": [
+        "Type 1475 Radar",
+        "IRST",
+        "RWR"
+      ],
+      "data_links": [
+        "PLA_TDL_16",
+        "Carrier_Data_Link"
+      ],
+      "range_km": 3500,
+      "speed_mach": 2.4,
+      "payload_kg": 6500
+    },
+    "J35_201": {
+      "id": "J35_201",
+      "type": "PLAAircraftType.J_35_STEALTH",
+      "name": "J-35 #201",
+      "location": {
+        "lat": 31.4,
+        "lon": 121.5,
+        "alt_m": 2000,
+        "desc": "Testing with Fujian"
+      },
+      "status": "READY",
+      "weapons": [
+        "PL-15 AAM",
+        "PL-10 AAM",
+        "Internal Weapons Bay"
+      ],
+      "sensors": [
+        "AESA Radar",
+        "Distributed Aperture",
+        "EOTS"
+      ],
+      "data_links": [
+        "Collaborative_Combat",
+        "PLA_TDL_16"
+      ],
+      "range_km": 2000,
+      "speed_mach": 2.0,
+      "payload_kg": 8000
+    },
+    "J20_301": {
+      "id": "J20_301",
+      "type": "PLAAircraftType.J_20_STEALTH",
+      "name": "J-20 #301",
+      "location": {
+        "lat": 29.9,
+        "lon": 122.3,
+        "alt_m": 8000,
+        "desc": "East China Sea Patrol"
+      },
+      "status": "READY",
+      "weapons": [
+        "PL-15 AAM",
+        "PL-10 AAM",
+        "PL-XX Long Range"
+      ],
+      "sensors": [
+        "AESA Radar",
+        "IRST",
+        "EODAS"
+      ],
+      "data_links": [
+        "Collaborative_Combat",
+        "PLA_TDL_16",
+        "PLA_SatCom_L"
+      ],
+      "range_km": 2000,
+      "speed_mach": 2.0,
+      "payload_kg": 11000
+    },
+    "H6K_501": {
+      "id": "H6K_501",
+      "type": "PLAAircraftType.H_6K_BOMBER",
+      "name": "H-6K #501",
+      "location": {
+        "lat": 36.1,
+        "lon": 120.4,
+        "alt_m": 10000,
+        "desc": "Qingdao Air Base"
+      },
+      "status": "READY",
+      "weapons": [
+        "CJ-20 Cruise Missiles",
+        "KD-20 Cruise Missiles",
+        "YJ-12 Anti-ship"
+      ],
+      "sensors": [
+        "Radar",
+        "Electronic Warfare"
+      ],
+      "data_links": [
+        "PLA_TDL_16",
+        "PLA_SatCom_L"
+      ],
+      "range_km": 8000,
+      "speed_mach": 0.8,
+      "payload_kg": 12000
+    },
+    "KJ500_601": {
+      "id": "KJ500_601",
+      "type": "PLAAircraftType.KJ_500_AEW",
+      "name": "KJ-500 #601",
+      "location": {
+        "lat": 24.0,
+        "lon": 120.0,
+        "alt_m": 9000,
+        "desc": "Taiwan Strait Patrol"
+      },
+      "status": "READY",
+      "weapons": [
+        "None"
+      ],
+      "sensors": [
+        "AESA Radar Array",
+        "ESM",
+        "COMINT"
+      ],
+      "data_links": [
+        "PLA_TDL_16",
+        "PLA_SatCom_L",
+        "Battle_Management"
+      ],
+      "range_km": 6000,
+      "speed_mach": 0.7,
+      "payload_kg": 0
+    }
+  },
+  "adversary_naval_assets": {
+    "CVN_78": {
+      "id": "CVN_78",
+      "type": "AdversaryNavalType.FORD_CVN",
+      "name": "USS Gerald R. Ford",
+      "location": {
+        "lat": 12.5,
+        "lon": 116.0,
+        "alt_m": 0,
+        "desc": "South China Sea"
+      },
+      "status": "ACTIVE",
+      "affiliation": "United States",
+      "weapons": [
+        "RIM-162 ESSM",
+        "RIM-116 RAM",
+        "Phalanx CIWS"
+      ],
+      "sensors": [
+        "SPY-6 Radar",
+        "Dual Band Radar",
+        "E-2D Hawkeye"
+      ]
+    },
+    "DDG_115": {
+      "id": "DDG_115",
+      "type": "AdversaryNavalType.ARLEIGH_BURKE_DDG",
+      "name": "USS Rafael Peralta",
+      "location": {
+        "lat": 12.6,
+        "lon": 116.1,
+        "alt_m": 0,
+        "desc": "South China Sea - CSG Escort"
+      },
+      "status": "ACTIVE",
+      "affiliation": "United States",
+      "weapons": [
+        "SM-6",
+        "Tomahawk",
+        "Harpoon",
+        "ASROC"
+      ],
+      "sensors": [
+        "SPY-6 Radar",
+        "SQS-53C Sonar"
+      ]
+    },
+    "DDH_183": {
+      "id": "DDH_183",
+      "type": "AdversaryNavalType.IZUMO_DDH",
+      "name": "JS Izumo",
+      "location": {
+        "lat": 27.0,
+        "lon": 126.0,
+        "alt_m": 0,
+        "desc": "East China Sea"
+      },
+      "status": "ACTIVE",
+      "affiliation": "Japan",
+      "weapons": [
+        "SeaRAM",
+        "Phalanx CIWS"
+      ],
+      "sensors": [
+        "OPS-50 AESA Radar",
+        "OQQ-24 Sonar"
+      ]
+    },
+    "DDG_1801": {
+      "id": "DDG_1801",
+      "type": "AdversaryNavalType.KIDD_DDG",
+      "name": "ROCS Tso Ying",
+      "location": {
+        "lat": 22.7,
+        "lon": 120.3,
+        "alt_m": 0,
+        "desc": "Zuoying Naval Base"
+      },
+      "status": "ACTIVE",
+      "affiliation": "Taiwan",
+      "weapons": [
+        "SM-2",
+        "Harpoon",
+        "Phalanx CIWS"
+      ],
+      "sensors": [
+        "SPY-1D Radar",
+        "SQS-53 Sonar"
+      ]
+    },
+    "SSN_787": {
+      "id": "SSN_787",
+      "type": "AdversaryNavalType.VIRGINIA_SSN",
+      "name": "USS Washington",
+      "location": {
+        "lat": 13.4,
+        "lon": 144.7,
+        "alt_m": -300,
+        "desc": "Guam - Submerged"
+      },
+      "status": "ACTIVE",
+      "affiliation": "United States",
+      "weapons": [
+        "Tomahawk",
+        "Mk-48 Torpedoes"
+      ],
+      "sensors": [
+        "Bow Array Sonar",
+        "Towed Array",
+        "Photonic Mast"
+      ]
+    }
+  },
+  "pla_bases": {
+    "Hainan_Yulin": {
+      "id": "Hainan_Yulin",
+      "type": "BaseLocationType.PLA_NAVAL_BASE",
+      "name": "Yulin Naval Base",
+      "location": {
+        "lat": 18.2,
+        "lon": 109.7,
+        "alt_m": 0,
+        "desc": "Yulin Naval Base, Hainan"
+      },
+      "affiliation": "PLA",
+      "assets": [],
+      "capabilities": [
+        "Nuclear Submarine Base",
+        "Aircraft Carrier Port",
+        "Missile Storage"
+      ],
+      "runway_m": 0,
+      "pier_capacity": 12,
+      "missile_silos": 0,
+      "underground": true
+    },
+    "Sanya": {
+      "id": "Sanya",
+      "type": "BaseLocationType.PLA_NAVAL_BASE",
+      "name": "Sanya Naval Base",
+      "location": {
+        "lat": 18.3,
+        "lon": 109.5,
+        "alt_m": 0,
+        "desc": "Sanya Naval Base, Hainan"
+      },
+      "affiliation": "PLA",
+      "assets": [],
+      "capabilities": [
+        "Surface Ship Base",
+        "Submarine Pens",
+        "Repair Facilities"
+      ],
+      "runway_m": 0,
+      "pier_capacity": 8,
+      "missile_silos": 0,
+      "underground": false
+    },
+    "Zhoushan": {
+      "id": "Zhoushan",
+      "type": "BaseLocationType.PLA_NAVAL_BASE",
+      "name": "Zhoushan Naval Base",
+      "location": {
+        "lat": 29.9,
+        "lon": 122.3,
+        "alt_m": 0,
+        "desc": "Zhoushan Naval Base, Zhejiang"
+      },
+      "affiliation": "PLA",
+      "assets": [],
+      "capabilities": [
+        "East Sea Fleet HQ",
+        "Large Surface Ships",
+        "Training Facilities"
+      ],
+      "runway_m": 0,
+      "pier_capacity": 15,
+      "missile_silos": 0,
+      "underground": false
+    },
+    "Qingdao": {
+      "id": "Qingdao",
+      "type": "BaseLocationType.PLA_NAVAL_BASE",
+      "name": "Qingdao Naval Base",
+      "location": {
+        "lat": 36.1,
+        "lon": 120.4,
+        "alt_m": 0,
+        "desc": "Qingdao Naval Base, Shandong"
+      },
+      "affiliation": "PLA",
+      "assets": [],
+      "capabilities": [
+        "North Sea Fleet HQ",
+        "Aircraft Carrier Port",
+        "Submarine Base"
+      ],
+      "runway_m": 0,
+      "pier_capacity": 20,
+      "missile_silos": 0,
+      "underground": false
+    },
+    "Xiamen": {
+      "id": "Xiamen",
+      "type": "BaseLocationType.PLA_NAVAL_BASE",
+      "name": "Xiamen Naval Base",
+      "location": {
+        "lat": 24.4,
+        "lon": 118.1,
+        "alt_m": 0,
+        "desc": "Xiamen Naval Base, Fujian"
+      },
+      "affiliation": "PLA",
+      "assets": [],
+      "capabilities": [
+        "Amphibious Assault",
+        "Rapid Deployment",
+        "Missile Batteries"
+      ],
+      "runway_m": 0,
+      "pier_capacity": 6,
+      "missile_silos": 0,
+      "underground": false
+    }
+  },
+  "adversary_bases": {
+    "Yokosuka_US": {
+      "id": "Yokosuka_US",
+      "type": "BaseLocationType.ADVERSARY_NAVAL_BASE",
+      "name": "Yokosuka Naval Base",
+      "location": {
+        "lat": 35.3,
+        "lon": 139.7,
+        "alt_m": 0,
+        "desc": "Yokosuka, Japan - US 7th Fleet HQ"
+      },
+      "affiliation": "United States",
+      "assets": [],
+      "capabilities": [
+        "Aircraft Carrier Port",
+        "Destroyer Squadron",
+        "Repair Yards"
+      ],
+      "runway_m": 0,
+      "pier_capacity": 25,
+      "missile_silos": 0,
+      "underground": false
+    },
+    "Guam_US": {
+      "id": "Guam_US",
+      "type": "BaseLocationType.ADVERSARY_NAVAL_BASE",
+      "name": "Guam Naval Base",
+      "location": {
+        "lat": 13.4,
+        "lon": 144.7,
+        "alt_m": 0,
+        "desc": "Guam - US Strategic Pacific Base"
+      },
+      "affiliation": "United States",
+      "assets": [],
+      "capabilities": [
+        "Nuclear Submarine",
+        "Strategic Bombers",
+        "Missile Defense"
+      ],
+      "runway_m": 3400,
+      "pier_capacity": 10,
+      "missile_silos": 0,
+      "underground": false
+    },
+    "Okinawa_US": {
+      "id": "Okinawa_US",
+      "type": "BaseLocationType.ADVERSARY_NAVAL_BASE",
+      "name": "Kadena Air Base",
+      "location": {
+        "lat": 26.4,
+        "lon": 127.8,
+        "alt_m": 0,
+        "desc": "Okinawa, Japan - US Air Force Base"
+      },
+      "affiliation": "United States",
+      "assets": [],
+      "capabilities": [
+        "Fighter Wings",
+        "AWACS",
+        "Strategic Reconnaissance"
+      ],
+      "runway_m": 3700,
+      "pier_capacity": 0,
+      "missile_silos": 0,
+      "underground": false
+    },
+    "Sasebo_JP": {
+      "id": "Sasebo_JP",
+      "type": "BaseLocationType.ADVERSARY_NAVAL_BASE",
+      "name": "Sasebo Naval Base",
+      "location": {
+        "lat": 33.2,
+        "lon": 129.7,
+        "alt_m": 0,
+        "desc": "Sasebo, Japan - JMSDF Base"
+      },
+      "affiliation": "Japan",
+      "assets": [],
+      "capabilities": [
+        "Helicopter Destroyers",
+        "Submarines",
+        "Mine Warfare"
+      ],
+      "runway_m": 0,
+      "pier_capacity": 8,
+      "missile_silos": 0,
+      "underground": false
+    },
+    "Zuoying_TW": {
+      "id": "Zuoying_TW",
+      "type": "BaseLocationType.ADVERSARY_NAVAL_BASE",
+      "name": "Zuoying Naval Base",
+      "location": {
+        "lat": 22.7,
+        "lon": 120.3,
+        "alt_m": 0,
+        "desc": "Zuoying, Taiwan - ROC Navy HQ"
+      },
+      "affiliation": "Taiwan",
+      "assets": [],
+      "capabilities": [
+        "Destroyer Base",
+        "Submarine Pens",
+        "Coastal Defense"
+      ],
+      "runway_m": 0,
+      "pier_capacity": 12,
+      "missile_silos": 0,
+      "underground": false
+    },
+    "Magong_TW": {
+      "id": "Magong_TW",
+      "type": "BaseLocationType.ADVERSARY_NAVAL_BASE",
+      "name": "Magong Naval Base",
+      "location": {
+        "lat": 23.6,
+        "lon": 119.6,
+        "alt_m": 0,
+        "desc": "Magong, Penghu Islands - ROC Navy"
+      },
+      "affiliation": "Taiwan",
+      "assets": [],
+      "capabilities": [
+        "Patrol Boats",
+        "Missile Batteries",
+        "Early Warning"
+      ],
+      "runway_m": 0,
+      "pier_capacity": 6,
+      "missile_silos": 0,
+      "underground": false
+    }
+  },
+  "battle_scenarios": {
+    "SCS_Conflict": {
+      "id": "SCS_Conflict",
+      "name": "South China Sea Conflict Scenario",
+      "location": {
+        "lat": 12.0,
+        "lon": 115.0,
+        "alt_m": 0,
+        "desc": "Central South China Sea"
+      },
+      "description": "PLA vs US/Allied forces in contested South China Sea waters",
+      "pla_forces": [],
+      "adversary_forces": [],
+      "objectives": [],
+      "time_frame": "2024-2025",
+      "weather": {
+        "sea_state": 3,
+        "visibility": "good",
+        "wind_speed": 15
+      }
+    },
+    "Taiwan_Strait_Crisis": {
+      "id": "Taiwan_Strait_Crisis",
+      "name": "Taiwan Strait Military Crisis",
+      "location": {
+        "lat": 24.0,
+        "lon": 120.0,
+        "alt_m": 0,
+        "desc": "Central Taiwan Strait"
+      },
+      "description": "PLA blockade/invasion scenario with US intervention",
+      "pla_forces": [],
+      "adversary_forces": [],
+      "objectives": [],
+      "time_frame": "2024-2025",
+      "weather": {
+        "sea_state": 2,
+        "visibility": "moderate",
+        "wind_speed": 20
+      }
+    },
+    "East_China_Sea_Standoff": {
+      "id": "East_China_Sea_Standoff",
+      "name": "East China Sea ADIZ Standoff",
+      "location": {
+        "lat": 27.0,
+        "lon": 126.0,
+        "alt_m": 0,
+        "desc": "East China Sea Air Defense Zone"
+      },
+      "description": "PLA-Japan-US air/naval confrontation over Senkaku/Diaoyu",
+      "pla_forces": [],
+      "adversary_forces": [],
+      "objectives": [],
+      "time_frame": "2024-2025",
+      "weather": {
+        "sea_state": 4,
+        "visibility": "poor",
+        "wind_speed": 25
+      }
+    }
+  },
+  "metadata": {
+    "export_timestamp": "2025-12-15T15:13:14.384133",
+    "total_assets": 17,
+    "total_bases": 11
+  }
+}

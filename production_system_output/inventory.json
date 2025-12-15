@@ -1,14 +1,14 @@
 {
   "materials": {
-    "Tungsten_Alloy": 13500,
-    "Aluminum_7075": 38050,
-    "Steel_4340": 172500,
-    "Carbon_Fiber": 34180,
-    "Titanium_Alloy": 19100,
-    "Explosives": 4100,
-    "Electronics": 3275
+    "Tungsten_Alloy": 16500,
+    "Aluminum_7075": 47450,
+    "Steel_4340": 214000,
+    "Carbon_Fiber": 42275,
+    "Titanium_Alloy": 23800,
+    "Explosives": 4900,
+    "Electronics": 4050
   },
-  "last_updated": "2025-12-15T14:32:39.359930",
+  "last_updated": "2025-12-15T15:13:13.777513",
   "reorder_points": {
     "Titanium_Alloy": {
       "min": 1000,
@@ -243,6 +243,55 @@
       "supplier": "PLA Electronics Command",
       "batch_id": "BATCH-007",
       "received_date": "2025-12-15T14:32:36.756417"
+    },
+    {
+      "material": "Tungsten_Alloy",
+      "quantity": 5000,
+      "supplier": "PLA Materials Division",
+      "batch_id": "BATCH-001",
+      "received_date": "2025-12-15T15:13:11.182644"
+    },
+    {
+      "material": "Aluminum_7075",
+      "quantity": 10000,
+      "supplier": "PLA Materials Division",
+      "batch_id": "BATCH-002",
+      "received_date": "2025-12-15T15:13:11.183084"
+    },
+    {
+      "material": "Steel_4340",
+      "quantity": 50000,
+      "supplier": "PLA Materials Division",
+      "batch_id": "BATCH-003",
+      "received_date": "2025-12-15T15:13:11.183533"
+    },
+    {
+      "material": "Carbon_Fiber",
+      "quantity": 10000,
+      "supplier": "Advanced Composites Inc",
+      "batch_id": "BATCH-004",
+      "received_date": "2025-12-15T15:13:11.184042"
+    },
+    {
+      "material": "Titanium_Alloy",
+      "quantity": 5000,
+      "supplier": "Titanium Specialists",
+      "batch_id": "BATCH-005",
+      "received_date": "2025-12-15T15:13:11.184490"
+    },
+    {
+      "material": "Explosives",
+      "quantity": 2000,
+      "supplier": "PLA Ordnance Division",
+      "batch_id": "BATCH-006",
+      "received_date": "2025-12-15T15:13:11.184923"
+    },
+    {
+      "material": "Electronics",
+      "quantity": 1000,
+      "supplier": "PLA Electronics Command",
+      "batch_id": "BATCH-007",
+      "received_date": "2025-12-15T15:13:11.186470"
     }
   ],
   "reservations": [
@@ -623,6 +672,120 @@
       "quantity": 100,
       "order_id": "ORD-20251215-ad141a",
       "reserved_date": "2025-12-15T14:32:39.359928"
+    },
+    {
+      "material": "Tungsten_Alloy",
+      "quantity": 500,
+      "order_id": "ORD-20251215-7a11e1",
+      "reserved_date": "2025-12-15T15:13:11.187692"
+    },
+    {
+      "material": "Aluminum_7075",
+      "quantity": 150,
+      "order_id": "ORD-20251215-7a11e1",
+      "reserved_date": "2025-12-15T15:13:11.188079"
+    },
+    {
+      "material": "Steel_4340",
+      "quantity": 2000,
+      "order_id": "ORD-20251215-7a11e1",
+      "reserved_date": "2025-12-15T15:13:11.188935"
+    },
+    {
+      "material": "Carbon_Fiber",
+      "quantity": 105,
+      "order_id": "ORD-20251215-7a11e1",
+      "reserved_date": "2025-12-15T15:13:11.189397"
+    },
+    {
+      "material": "Explosives",
+      "quantity": 300,
+      "order_id": "ORD-20251215-7a11e1",
+      "reserved_date": "2025-12-15T15:13:11.189846"
+    },
+    {
+      "material": "Electronics",
+      "quantity": 50,
+      "order_id": "ORD-20251215-7a11e1",
+      "reserved_date": "2025-12-15T15:13:11.190361"
+    },
+    {
+      "material": "Tungsten_Alloy",
+      "quantity": 800,
+      "order_id": "ORD-20251215-1ccb01",
+      "reserved_date": "2025-12-15T15:13:12.733149"
+    },
+    {
+      "material": "Aluminum_7075",
+      "quantity": 200,
+      "order_id": "ORD-20251215-1ccb01",
+      "reserved_date": "2025-12-15T15:13:12.733593"
+    },
+    {
+      "material": "Steel_4340",
+      "quantity": 3500,
+      "order_id": "ORD-20251215-1ccb01",
+      "reserved_date": "2025-12-15T15:13:12.734020"
+    },
+    {
+      "material": "Titanium_Alloy",
+      "quantity": 160,
+      "order_id": "ORD-20251215-1ccb01",
+      "reserved_date": "2025-12-15T15:13:12.734505"
+    },
+    {
+      "material": "Explosives",
+      "quantity": 500,
+      "order_id": "ORD-20251215-1ccb01",
+      "reserved_date": "2025-12-15T15:13:12.735008"
+    },
+    {
+      "material": "Electronics",
+      "quantity": 75,
+      "order_id": "ORD-20251215-1ccb01",
+      "reserved_date": "2025-12-15T15:13:12.735547"
+    },
+    {
+      "material": "Tungsten_Alloy",
+      "quantity": 700,
+      "order_id": "ORD-20251215-e97c43",
+      "reserved_date": "2025-12-15T15:13:13.774393"
+    },
+    {
+      "material": "Aluminum_7075",
+      "quantity": 250,
+      "order_id": "ORD-20251215-e97c43",
+      "reserved_date": "2025-12-15T15:13:13.774860"
+    },
+    {
+      "material": "Steel_4340",
+      "quantity": 3000,
+      "order_id": "ORD-20251215-e97c43",
+      "reserved_date": "2025-12-15T15:13:13.775422"
+    },
+    {
+      "material": "Carbon_Fiber",
+      "quantity": 1800,
+      "order_id": "ORD-20251215-e97c43",
+      "reserved_date": "2025-12-15T15:13:13.775939"
+    },
+    {
+      "material": "Titanium_Alloy",
+      "quantity": 140,
+      "order_id": "ORD-20251215-e97c43",
+      "reserved_date": "2025-12-15T15:13:13.776467"
+    },
+    {
+      "material": "Explosives",
+      "quantity": 400,
+      "order_id": "ORD-20251215-e97c43",
+      "reserved_date": "2025-12-15T15:13:13.777000"
+    },
+    {
+      "material": "Electronics",
+      "quantity": 100,
+      "order_id": "ORD-20251215-e97c43",
+      "reserved_date": "2025-12-15T15:13:13.777512"
     }
   ]
 }

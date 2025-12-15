@@ -1,0 +1,111 @@
+================================================================================
+PLA WEAPONS SYSTEMS DATA LINK UPGRADE PLAN
+MAXIMUM CAPABILITY ENGINEERING - VERIFIED 2024 PRODUCTION
+================================================================================
+
+UPGRADE PRIORITIES (Strategic Impact Score):
+------------------------------------------------------------
+DF-17    | Score:  68.9 | Upgrade: PLA_SatCom_L                   | Cost: $ 45.0M
+PL-17    | Score:  68.2 | Upgrade: Collaborative_Combat_DataLink  | Cost: $ 18.0M
+PL-15    | Score:  65.8 | Upgrade: PL-15_DataLink                 | Cost: $ 12.0M
+J-20     | Score:  62.7 | Upgrade: Collaborative_Combat_DataLink  | Cost: $120.0M
+DF-21    | Score:  60.0 | Upgrade: PLA_TDL_16                     | Cost: $ 35.0M
+J-35     | Score:  58.5 | Upgrade: Collaborative_Combat_DataLink  | Cost: $ 95.0M
+DF-26    | Score:  53.0 | Upgrade: PLA_SatCom_L + PLA_TDL_16      | Cost: $ 50.0M
+
+UPGRADE SCHEDULE (Within Production Constraints):
+------------------------------------------------------------
+Phase 1 (Month 1):
+  Systems: DF-17, PL-17, PL-15
+  Duration: 4.0 months
+  Cost: $75.0M
+Phase 2 (Month 5.0):
+  Systems: J-20, DF-21, J-35
+  Duration: 6.7 months
+  Cost: $250.0M
+Phase 3 (Month 11.666666666666668):
+  Systems: DF-26
+  Duration: 5.0 months
+  Cost: $50.0M
+
+Total Program: 15.7 months, $375.0M
+Constraints Met: True
+
+SYSTEM IMPROVEMENTS QUANTIFIED:
+------------------------------------------------------------
+
+DF-17:
+  Upgrade: Basic_SatCom → PLA_SatCom_L
+  Kill Chain Time: --50%
+  Target Updates: 1x
+  Network Integration: 100%
+  Time/Cost: 4.0 months, $45.0M
+
+DF-21:
+  Upgrade: Ground_Link → PLA_TDL_16
+  Kill Chain Time: --30%
+  Target Updates: 10x
+  Network Integration: 80%
+  Time/Cost: 2.5 months, $35.0M
+
+DF-26:
+  Upgrade: SatCom + Ground → PLA_SatCom_L + PLA_TDL_16
+  Kill Chain Time: -0%
+  Target Updates: 0x
+  Network Integration: 0%
+  Time/Cost: 5.0 months, $50.0M
+
+PL-15:
+  Upgrade: Two-way_X-band → PL-15_DataLink
+  Kill Chain Time: --40%
+  Target Updates: 20x
+  Network Integration: 70%
+  Time/Cost: 0.7 months, $12.0M
+
+PL-17:
+  Upgrade: Enhanced_PL15 → Collaborative_Combat_DataLink
+  Kill Chain Time: --60%
+  Target Updates: 100x
+  Network Integration: 100%
+  Time/Cost: 1.5 months, $18.0M
+
+J-20:
+  Upgrade: PLA_TDL_16 → Collaborative_Combat_DataLink
+  Kill Chain Time: --60%
+  Target Updates: 100x
+  Network Integration: 100%
+  Time/Cost: 6.7 months, $120.0M
+
+J-35:
+  Upgrade: PLA_TDL_16 → Collaborative_Combat_DataLink
+  Kill Chain Time: --60%
+  Target Updates: 100x
+  Network Integration: 100%
+  Time/Cost: 4.7 months, $95.0M
+
+================================================================================
+PRODUCTION CAPACITIES (VERIFIED 2024):
+------------------------------------------------------------
+DF-17: 12 units/month (Beijing Xinghang)
+DF-26: 10 units/month (400+ deployed)
+J-20: 30+ units/year (300+ in service)
+PL-15: 50 units/month (CAMA production)
+
+DATA LINK STANDARDS:
+- PLA_TDL_16: 238 kbps, 300km, AES-256
+- PLA_SatCom_L: 2 Mbps, global, QKD
+- Collaborative Combat: 10 Gbps, 50km, swarm
+
+RECOMMENDED UPGRADE SEQUENCE:
+1. DF-26 (Carrier killer priority)
+2. J-20 (Network hub)
+3. DF-17 (Hypersonic deterrent)
+4. PL-15/PL-17 (Air superiority)
+5. J-35 (Naval integration)
+
+================================================================================
+CAD INTEGRATION:
+- DF-17 CAD with 4x PLA_TDL_16 antennas
+- J-20 CAD with Collaborative Combat DataLink
+- All systems: STEP files with antenna geometry
+- Manufacturing interfaces: Threaded mounts, cooling

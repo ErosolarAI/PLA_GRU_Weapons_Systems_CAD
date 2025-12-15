@@ -1,5 +1,5 @@
 {
-  "report_date": "2025-12-15T14:32:39.879249",
+  "report_date": "2025-12-15T15:13:14.302615",
   "total_orders": 3,
   "completed_orders": 3,
   "orders_in_production": 0,
@@ -11,37 +11,37 @@
   "production_efficiency": 15.0,
   "material_usage": {
     "Tungsten_Alloy": {
-      "current": 13500,
+      "current": 16500,
       "usage_rate": 50.0,
       "waste_percentage": 2.5
     },
     "Aluminum_7075": {
-      "current": 38050,
+      "current": 47450,
       "usage_rate": 50.0,
       "waste_percentage": 2.5
     },
     "Steel_4340": {
-      "current": 172500,
+      "current": 214000,
       "usage_rate": 50.0,
       "waste_percentage": 2.5
     },
     "Carbon_Fiber": {
-      "current": 34180,
+      "current": 42275,
       "usage_rate": 50.0,
       "waste_percentage": 2.5
     },
     "Titanium_Alloy": {
-      "current": 19100,
+      "current": 23800,
       "usage_rate": 50.0,
       "waste_percentage": 2.5
     },
     "Explosives": {
-      "current": 4100,
+      "current": 4900,
       "usage_rate": 50.0,
       "waste_percentage": 2.5
     },
     "Electronics": {
-      "current": 3275,
+      "current": 4050,
       "usage_rate": 50.0,
       "waste_percentage": 2.5
     }

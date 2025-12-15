@@ -1,0 +1,30 @@
+{
+  "PLA_TDL_16": {
+    "frequency": "960-1215 MHz",
+    "data_rate": "238 kbps",
+    "range_km": 300,
+    "interoperable_with": [
+      "R-438",
+      "Link-16"
+    ],
+    "encryption": "AES-256"
+  },
+  "R-438": {
+    "frequency": "UHF",
+    "data_rate": "200 kbps",
+    "range_km": 350,
+    "interoperable_with": [
+      "PLA_TDL_16"
+    ],
+    "encryption": "Russian Krypton"
+  },
+  "Collaborative_Combat": {
+    "frequency": "Ka-band",
+    "data_rate": "10 Gbps",
+    "range_km": 50,
+    "interoperable_with": [
+      "BARS"
+    ],
+    "encryption": "Quantum QKD"
+  }
+}

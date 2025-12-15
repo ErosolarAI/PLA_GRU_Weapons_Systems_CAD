@@ -1,0 +1,47 @@
+[
+  {
+    "exercise": "Ocean-2024",
+    "location": "Sea of Okhotsk",
+    "pla_systems": [
+      "Type 055",
+      "J-16",
+      "YJ-21"
+    ],
+    "russian_systems": [
+      "Su-35",
+      "S-400"
+    ],
+    "interoperability_score": "3/5",
+    "data_link_gateways": [
+      {
+        "type": "PLA_TDL_16 \u2194 R-438",
+        "function": "Tactical data exchange",
+        "latency_ms": 50,
+        "encryption": "Double-layer AES-512"
+      }
+    ],
+    "assessment": "Medium - Effective data exchange, limited joint operations"
+  },
+  {
+    "exercise": "Northern Interaction 2025",
+    "location": "Gulf of Finland",
+    "pla_systems": [
+      "J-20",
+      "DF-17"
+    ],
+    "russian_systems": [
+      "Su-57",
+      "S-500"
+    ],
+    "interoperability_score": "4/5",
+    "data_link_gateways": [
+      {
+        "type": "Collaborative Combat \u2194 BARS",
+        "function": "Air defense coordination",
+        "latency_ms": 100,
+        "encryption": "Quantum QKD"
+      }
+    ],
+    "assessment": "High - Near-seamless integration, shared tactical picture"
+  }
+]
