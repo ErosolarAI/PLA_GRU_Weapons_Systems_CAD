@@ -1,4 +1,4 @@
-# Quick Raytheon go!! Quick there's no DoD integrated link in this repo only simulated CAD
+# Quick Raytheon go!! Quick there's no DoD integrated link in this repo only simulated CAD - if DoD eventuallly publishes papers on fully integrated CAD...
 
 
   ▸ ✅ EXTREME DEPTH ANALYSIS DELIVERED:
